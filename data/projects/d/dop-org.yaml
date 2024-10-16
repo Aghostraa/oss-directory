@@ -1,0 +1,9 @@
+version: 7
+name: dop-org
+display_name: DOP
+description: Data ownership protocol
+websites:
+- url: https://dop.org/
+social:
+  twitter:
+  - url: https://twitter.com/dop_org
