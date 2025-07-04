@@ -1,0 +1,16 @@
+version: 7
+name: dexscreener
+display_name: DexScreener
+description: DEX Screener is a real-time analytics platform that tracks token price charts, liquidity, volume, and on-chain trade activity across 60+ chains and hundreds of DEXes. It offers features like customizable screeners, alerts, watchlists, multi-chart layouts, and developer APIs—without requiring registration.
+websites:
+ - url: https://dexscreener.com
+github:
+ - url: https://github.com/dexscreener
+social:
+  twitter:
+   - url: https://twitter.com/dexscreener
+  telegram:
+   - url: https://telegram.me/dexscreenerchat
+  discord:
+   - url: https://discord.gg/XNgMb5tQN7
+
