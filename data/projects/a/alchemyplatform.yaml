@@ -1,7 +1,7 @@
 version: 7
 name: alchemyplatform
 display_name: Alchemy
-description: Alchemy is a web3 development platform offering APIs, SDKs, and tools to build and scale decentralized applications. It features Supernode, a customizable blockchain engine, and Embedded Wallets for seamless user onboarding and transaction management using familiar web2 UX patterns.
+description: Alchemy is a web3 development platform offering APIs, SDKs, and tools to build and scale decentralised applications. It features Supernode, a customizable blockchain engine, and Embedded Wallets for seamless user onboarding and transaction management using familiar web2 UX patterns.
 websites:
   - url: https://www.alchemy.com
 social:
@@ -14,26 +14,26 @@ github:
   - url: https://github.com/alchemyplatform/erc-6900-ref-implementation
   - url: https://github.com/alchemyplatform/multisig-plugin
   - url: https://github.com/alchemyplatform/modular-account
+npm:
+  - url: https://www.npmjs.com/package/@alchemy/aa-accounts
+  - url: https://www.npmjs.com/package/@alchemy/aa-alchemy
+  - url: https://www.npmjs.com/package/@alchemy/aa-core
 blockchain:
-  - address: "0x15ba39375ee2ab563e8873c8390be6f2e2f50232"
+  - address: '0x15ba39375ee2ab563e8873c8390be6f2e2f50232'
     networks:
       - optimism
     tags:
       - contract
       - factory
     name: SimpleAccountFactory
-  - address: "0xa43c51aacae41aec73e1eff2d13d69ed13de8dab"
+  - address: '0xa43c51aacae41aec73e1eff2d13d69ed13de8dab'
     networks:
       - any_evm
     tags:
       - eoa
       - wallet
-  - address: "0xDdF32240B4ca3184De7EC8f0D5Aba27dEc8B7A5C"
+  - address: '0xDdF32240B4ca3184De7EC8f0D5Aba27dEc8B7A5C'
     networks:
       - any_evm
     tags:
       - deployer
-npm:
-  - url: https://www.npmjs.com/package/@alchemy/aa-accounts
-  - url: https://www.npmjs.com/package/@alchemy/aa-alchemy
-  - url: https://www.npmjs.com/package/@alchemy/aa-core
