@@ -1,9 +1,9 @@
 version: 7
 name: hunter-tales
 display_name: Hunter Tales
-description: Hunter Tales is a blockchain-based game that allows players to collect and train digital pets. Players can engage in battles and other activities within the game. The game utilizes NFTs for in-game assets.
+description: Huntertales is a fully on-chain idle RPG set in a fantasy world where players explore and reclaim a dangerous continent. Players establish settlements, recruit hunters, and deploy them on automated quests to battle creatures and gather resources. The game emphasizes collaborative gameplay and community coordination to influence territory control and achieve shared goals.
 websites:
   - url: https://game.huntertales.io/
 social:
   twitter:
-    - url: https://x.com/playhuntertales/
+    - url: https://x.com/playhuntertales
