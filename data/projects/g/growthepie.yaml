@@ -1,9 +1,14 @@
 version: 7
 name: growthepie
 display_name: growthepie
-description: growthepie.com provides comprehensive data and insights across Ethereum Mainnet and Layer 2 networks. The platform visualizes the usage, economics, and growth of the entire Ethereum ecosystem, while also allowing users to delve deeper into specific chains or applications.
+description: growthepie.com provides comprehensive data and insights across
+  Ethereum Mainnet and Layer 2 networks. The platform visualizes the usage,
+  economics, and growth of the entire Ethereum ecosystem, while also allowing
+  users to delve deeper into specific chains or applications.
 websites:
   - url: https://www.growthepie.com/
+  - url: https://labels.growthepie.com/
+  - url: https://icons.growthepie.com/
 social:
   twitter:
     - url: https://twitter.com/growthepie_eth
