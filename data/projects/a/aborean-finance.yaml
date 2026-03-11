@@ -1,0 +1,14 @@
+version: 7
+name: aborean-finance
+display_name: Aborean Finance
+description: Aborean Finance is a decentralized finance (DeFi) protocol built on Abstract. It offers a platform for lending, borrowing, and earning yields on crypto assets. The protocol aims to optimize capital efficiency for the Abstract chain.
+websites:
+  - url: https://aborean.finance/
+  - url: https://app.aborean.finance/
+social:
+  twitter:
+    - url: https://x.com/Aborean
+  telegram:
+    - url: https://t.me/aboreanfi
+github:
+  - url: https://github.com/Aborean-Finance
