@@ -3,3 +3,8 @@ name: consensys
 display_name: Consensys
 github:
   - url: https://github.com/consensys
+websites:
+  - url: https://consensys.io/
+social:
+  twitter:
+    - url: https://x.com/consensys
