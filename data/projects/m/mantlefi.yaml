@@ -3,3 +3,12 @@ name: mantlefi
 display_name: Mantle Finance
 github:
   - url: https://github.com/mantlefi
+description: MantleFi is a decentralized protocol for lending and borrowing on the Flow and
+  Ethereum blockchains. It was founded in 2021. The protocol aims to offer a
+  secure and efficient platform for users to participate in decentralized
+  finance activities.
+websites:
+  - url: https://mantlefi.com/
+social:
+  twitter:
+    - url: https://x.com/mantle_finance
