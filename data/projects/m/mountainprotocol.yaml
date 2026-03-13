@@ -1,7 +1,17 @@
 version: 7
 name: mountainprotocol
 display_name: Mountain Protocol
-defillama:
-  - url: https://defillama.com/protocol/mountain-protocol
+description: Mountain Protocol is the issuer of USDM, a regulated, yield-bearing
+  stablecoin backed by US Treasuries. It operates on the Ethereum blockchain and
+  aims to provide access to the "risk-free rate" with permissionless
+  composability and regulatory compliance. The protocol emphasizes transparency
+  and security in its operations.
+websites:
+  - url: https://mountainprotocol.com/
 github:
   - url: https://github.com/mountainprotocol
+social:
+  twitter:
+    - url: https://x.com/mountainusdm
+defillama:
+  - url: https://defillama.com/protocol/mountain-protocol
