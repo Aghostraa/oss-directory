@@ -1,5 +1,13 @@
 version: 7
 name: buildonhybrid
 display_name: Hybrid (L2)
+description: Hybrid is an Ethereum-based Layer 2 blockchain that integrates a
+  Mixture of Experts (MoE) framework. It enables the creation and monetization
+  of AI agents. The platform aims to simplify AI development for Web3.
+websites:
+  - url: https://buildonhybrid.com/
 github:
   - url: https://github.com/buildonhybrid
+social:
+  twitter:
+    - url: https://x.com/BuildOnHybrid
