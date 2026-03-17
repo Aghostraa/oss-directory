@@ -1,5 +1,11 @@
 version: 7
 name: dkodalabs
-display_name: Wasabi (Dkoda Labs)
+display_name: Wasabi
+description: Wasabi is a leverage trading protocol for a variety of assets, including those not commonly found on other platforms. It offers up to 10x leverage for both long and short positions. The platform aims to provide access to exclusive listings and real yield from trading fees.
+websites:
+  - url: https://wasabi.xyz/
+social:
+  twitter:
+    - url: https://x.com/wasabi_protocol
 github:
   - url: https://github.com/dkodalabs
