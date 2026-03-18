@@ -1,0 +1,11 @@
+version: 7
+name: nvidia
+display_name: NVIDIA
+description: NVIDIA develops graphics processing units (GPUs), systems on chips (SoCs), and application programming interfaces (APIs). Its products are used for data science, high-performance computing, video games, and mobile and automotive applications. The company is a leading manufacturer of high-end GPUs and a key player in artificial intelligence hardware and software.
+websites:
+  - url: https://www.nvidia.com/
+social:
+  twitter:
+    - url: https://x.com/nvidia
+github:
+  - url: https://github.com/NVIDIA/
