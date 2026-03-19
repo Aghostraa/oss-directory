@@ -1,0 +1,11 @@
+version: 7
+name: winky-starkzap
+display_name: Winky-Starkzap
+description: A blinking application on Starknet. Each blink represents a gasless on-chain transaction. It is powered by Privy social login and AVNU Paymaster.
+websites:
+  - url: https://winky-starkzap.vercel.app/
+social:
+  twitter:
+    - url: https://x.com/starkience
+github:
+  - url: https://github.com/starkience/winky-starkzap
