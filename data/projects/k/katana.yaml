@@ -1,0 +1,9 @@
+version: 7
+name: katana
+display_name: Katana Network
+description: Katana Network is a DeFi-focused Layer-2 blockchain designed to unify fragmented liquidity and deliver sustainable yield. It concentrates activity into core DeFi protocols like Sushi, Morpho, and Vertex. The network redistributes yield from various sources back to users and protocols to create a self-sustaining ecosystem.
+websites:
+  - url: https://katana.network/
+social:
+  twitter:
+    - url: https://x.com/katana/
