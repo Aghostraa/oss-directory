@@ -1,0 +1,6 @@
+version: 7
+name: qodo-ai
+display_name: Qodo
+github:
+  - url: https://github.com/qodo-ai
+  - url: https://github.com/Codium-ai
