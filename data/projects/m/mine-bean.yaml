@@ -1,0 +1,11 @@
+version: 7
+name: mine-bean
+display_name: MineBean
+description: MineBean is a gamified mining protocol on the Base blockchain. Players compete in short rounds to earn ETH and BEAN tokens. It combines competitive gaming with decentralized finance mechanics.
+websites:
+  - url: https://www.minebean.com/
+social:
+  twitter:
+    - url: https://x.com/minebean_
+github:
+  - url: https://github.com/nu11dotfun/mine-bean
